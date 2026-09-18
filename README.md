@@ -11,7 +11,7 @@ I'm not aiming to be a pure engineer — I'm working toward becoming a **BrSE (B
 ## 🚧 What I'm working on
 
 **NHCEA — Network Health Check Enterprise App**
-An open-source, Java-based enterprise network health check tool. It's a standalone project — not an extension of an earlier app, but it carries forward the same design philosophy: **Data-Oriented Programming (DOP) + functional pipelines + structured concurrency**.
+An open-source, Java-based enterprise network health check tool. It's a standalone project that follows the design philosophy: **Data-Oriented Programming (DOP) + functional pipelines + structured concurrency**.
 
 - Currently in the requirements/roadmap phase, working through a formal requirements document (functional & non-functional requirements, scope, success criteria)
 - Design principles: fully local, no cloud service, bring-your-own-model/backend, read-only by default
